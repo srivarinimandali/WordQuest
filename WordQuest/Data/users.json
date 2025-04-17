@@ -1,0 +1,3257 @@
+[
+  {
+    "words": {
+      "medium": [
+        {
+          "value": "Dwell",
+          "meaning": "Live in a place",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Temper",
+          "meaning": "Mood or disposition",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Intimate",
+          "meaning": "Closely acquainted",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Tide",
+          "meaning": "Sea level change",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Adverse",
+          "meaning": "Unfavorable, harmful",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Mitigate",
+          "meaning": "Make less severe",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Dubious",
+          "meaning": "Doubtful",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Pedantic",
+          "meaning": "Overly detailed",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Transitory",
+          "meaning": "Not permanent",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Vindicate",
+          "meaning": "Clear of blame",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Debauch",
+          "meaning": "Indulge in excess",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Circumvent",
+          "meaning": "Find a way around",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Exhort",
+          "meaning": "Strongly encourage",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Comply",
+          "meaning": "Follow rules",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Persist",
+          "meaning": "Continue despite difficulty",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Confer",
+          "meaning": "Consult together",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Evaluate",
+          "meaning": "Assess",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Estimate",
+          "meaning": "Approximate calculation",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Influence",
+          "meaning": "Impact or effect",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Modify",
+          "meaning": "Make changes to",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Enhance",
+          "meaning": "Improve",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Deter",
+          "meaning": "Discourage",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Promote",
+          "meaning": "Support or actively encourage",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Resolve",
+          "meaning": "Settle or find a solution",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Analyze",
+          "meaning": "Examine in detail",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Derive",
+          "meaning": "Obtain something from",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Conclude",
+          "meaning": "Bring to an end",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Adjust",
+          "meaning": "Alter or move slightly",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Compel",
+          "meaning": "Force to do something",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Consult",
+          "meaning": "Seek information from",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Negotiate",
+          "meaning": "Bargain",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Predict",
+          "meaning": "Foretell",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Recommend",
+          "meaning": "Advocate",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Reform",
+          "meaning": "Make changes to improve",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Scrutinize",
+          "meaning": "Examine carefully",
+          "level": 1,
+          "proficiency": 0
+        }
+      ],
+      "hard": [
+        {
+          "value": "Obnoxious",
+          "meaning": "Extremely unpleasant",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Obscure",
+          "meaning": "Not clear",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Render",
+          "meaning": "Provide or give",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Harry",
+          "meaning": "Persistently harass",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Aggrandize",
+          "meaning": "Increase power, status",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Cognizant",
+          "meaning": "Having knowledge",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Alacrity",
+          "meaning": "Brisk readiness",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Skill",
+          "meaning": "Learned ability",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Construe",
+          "meaning": "Interpret a way",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Denigrate",
+          "meaning": "Criticize unfairly",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Callous",
+          "meaning": "Emotionally hardened",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Accede",
+          "meaning": "Agree to a demand",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Bashful",
+          "meaning": "Shy, easily embarrassed",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Classic",
+          "meaning": "High quality",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Espouse",
+          "meaning": "Adopt or support",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Expiate",
+          "meaning": "Atone for guilt",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Obfuscate",
+          "meaning": "Deliberately confuse",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Equivocate",
+          "meaning": "Speak ambiguously",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Infallible",
+          "meaning": "Never failing",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Ubiquitous",
+          "meaning": "Found everywhere",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Quintessential",
+          "meaning": "Perfect example",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Perfunctory",
+          "meaning": "Done without care",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Propensity",
+          "meaning": "Natural tendency",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Sporadic",
+          "meaning": "Occurring at irregular intervals",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Volatility",
+          "meaning": "Liability to change rapidly",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Idiosyncratic",
+          "meaning": "Peculiar to the individual",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Ubiquitous",
+          "meaning": "Present everywhere",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Vicarious",
+          "meaning": "Experienced in the imagination",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Intransigent",
+          "meaning": "Unwilling to change",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Unctuous",
+          "meaning": "Excessively flattering",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Winsome",
+          "meaning": "Attractive or appealing",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Inexorable",
+          "meaning": "Impossible to stop",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Insidious",
+          "meaning": "Proceeding in a gradual way",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Intangible",
+          "meaning": "Unable to be touched",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Ineffable",
+          "meaning": "Too great to be expressed",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Pernicious",
+          "meaning": "Extremely harmful",
+          "level": 2,
+          "proficiency": 0
+        }
+      ],
+      "easy": [
+        {
+          "value": "Evident",
+          "meaning": "Clearly apparent",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Grant",
+          "meaning": "Allow to have",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Scale",
+          "meaning": "Relative magnitude ",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Style",
+          "meaning": "A manner of doing",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Hello",
+          "meaning": "A greeting",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Lucid",
+          "meaning": "Clearly expressed",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Catalyst",
+          "meaning": "Agent of change",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Innovate",
+          "meaning": "Introduce something new",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Financial",
+          "meaning": "Related to money",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Generate",
+          "meaning": "Produce, create",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Concept",
+          "meaning": "An abstract idea",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Condition",
+          "meaning": "State of health",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Undertake",
+          "meaning": "Commit to do",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Reflect",
+          "meaning": "Show an image",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Chamber",
+          "meaning": "Enclosed space",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Arduous",
+          "meaning": "Very difficult",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Zenith",
+          "meaning": "Highest point",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Plausible",
+          "meaning": "Seemingly reasonable",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Sporadic",
+          "meaning": "Occurring irregularly",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Melancholy",
+          "meaning": "Sad, gloomy",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Simple",
+          "meaning": "Easily understood",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Basic",
+          "meaning": "Fundamental",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Clear",
+          "meaning": "Easy to understand",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Brief",
+          "meaning": "Short in duration",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Young",
+          "meaning": "Early in life",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Old",
+          "meaning": "Advanced in years",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "New",
+          "meaning": "Recently created",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Cold",
+          "meaning": "Low temperature",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Warm",
+          "meaning": "Moderately hot",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Rich",
+          "meaning": "Wealthy",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Poor",
+          "meaning": "Lacking wealth",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Fast",
+          "meaning": "Quick",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Slow",
+          "meaning": "Not fast",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Easy",
+          "meaning": "Not difficult",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Hard",
+          "meaning": "Difficult",
+          "level": 0,
+          "proficiency": 0
+        }
+      ]
+    },
+    "level": "easy",
+    "username": "poojitha",
+    "password": "poojitha",
+    "firstname": "Sri Poojitha",
+    "lastname": "Mandali"
+  },
+  {
+    "words": {
+      "medium": [
+        {
+          "value": "Dwell",
+          "meaning": "Live in a place",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Temper",
+          "meaning": "Mood or disposition",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Intimate",
+          "meaning": "Closely acquainted",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Tide",
+          "meaning": "Sea level change",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Adverse",
+          "meaning": "Unfavorable, harmful",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Mitigate",
+          "meaning": "Make less severe",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Dubious",
+          "meaning": "Doubtful",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Pedantic",
+          "meaning": "Overly detailed",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Transitory",
+          "meaning": "Not permanent",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Vindicate",
+          "meaning": "Clear of blame",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Debauch",
+          "meaning": "Indulge in excess",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Circumvent",
+          "meaning": "Find a way around",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Exhort",
+          "meaning": "Strongly encourage",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Comply",
+          "meaning": "Follow rules",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Persist",
+          "meaning": "Continue despite difficulty",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Confer",
+          "meaning": "Consult together",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Evaluate",
+          "meaning": "Assess",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Estimate",
+          "meaning": "Approximate calculation",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Influence",
+          "meaning": "Impact or effect",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Modify",
+          "meaning": "Make changes to",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Enhance",
+          "meaning": "Improve",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Deter",
+          "meaning": "Discourage",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Promote",
+          "meaning": "Support or actively encourage",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Resolve",
+          "meaning": "Settle or find a solution",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Analyze",
+          "meaning": "Examine in detail",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Derive",
+          "meaning": "Obtain something from",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Conclude",
+          "meaning": "Bring to an end",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Adjust",
+          "meaning": "Alter or move slightly",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Compel",
+          "meaning": "Force to do something",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Consult",
+          "meaning": "Seek information from",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Negotiate",
+          "meaning": "Bargain",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Predict",
+          "meaning": "Foretell",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Recommend",
+          "meaning": "Advocate",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Reform",
+          "meaning": "Make changes to improve",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Scrutinize",
+          "meaning": "Examine carefully",
+          "level": 1,
+          "proficiency": 0
+        }
+      ],
+      "hard": [
+        {
+          "value": "Obnoxious",
+          "meaning": "Extremely unpleasant",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Obscure",
+          "meaning": "Not clear",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Render",
+          "meaning": "Provide or give",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Harry",
+          "meaning": "Persistently harass",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Aggrandize",
+          "meaning": "Increase power, status",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Cognizant",
+          "meaning": "Having knowledge",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Alacrity",
+          "meaning": "Brisk readiness",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Skill",
+          "meaning": "Learned ability",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Construe",
+          "meaning": "Interpret a way",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Denigrate",
+          "meaning": "Criticize unfairly",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Callous",
+          "meaning": "Emotionally hardened",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Accede",
+          "meaning": "Agree to a demand",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Bashful",
+          "meaning": "Shy, easily embarrassed",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Classic",
+          "meaning": "High quality",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Espouse",
+          "meaning": "Adopt or support",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Expiate",
+          "meaning": "Atone for guilt",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Obfuscate",
+          "meaning": "Deliberately confuse",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Equivocate",
+          "meaning": "Speak ambiguously",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Infallible",
+          "meaning": "Never failing",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Ubiquitous",
+          "meaning": "Found everywhere",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Quintessential",
+          "meaning": "Perfect example",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Perfunctory",
+          "meaning": "Done without care",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Propensity",
+          "meaning": "Natural tendency",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Sporadic",
+          "meaning": "Occurring at irregular intervals",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Volatility",
+          "meaning": "Liability to change rapidly",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Idiosyncratic",
+          "meaning": "Peculiar to the individual",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Ubiquitous",
+          "meaning": "Present everywhere",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Vicarious",
+          "meaning": "Experienced in the imagination",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Intransigent",
+          "meaning": "Unwilling to change",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Unctuous",
+          "meaning": "Excessively flattering",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Winsome",
+          "meaning": "Attractive or appealing",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Inexorable",
+          "meaning": "Impossible to stop",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Insidious",
+          "meaning": "Proceeding in a gradual way",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Intangible",
+          "meaning": "Unable to be touched",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Ineffable",
+          "meaning": "Too great to be expressed",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Pernicious",
+          "meaning": "Extremely harmful",
+          "level": 2,
+          "proficiency": 0
+        }
+      ],
+      "easy": [
+        {
+          "value": "Evident",
+          "meaning": "Clearly apparent",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Grant",
+          "meaning": "Allow to have",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Scale",
+          "meaning": "Relative magnitude ",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Style",
+          "meaning": "A manner of doing",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Hello",
+          "meaning": "A greeting",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Lucid",
+          "meaning": "Clearly expressed",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Catalyst",
+          "meaning": "Agent of change",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Innovate",
+          "meaning": "Introduce something new",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Financial",
+          "meaning": "Related to money",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Generate",
+          "meaning": "Produce, create",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Concept",
+          "meaning": "An abstract idea",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Condition",
+          "meaning": "State of health",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Undertake",
+          "meaning": "Commit to do",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Reflect",
+          "meaning": "Show an image",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Chamber",
+          "meaning": "Enclosed space",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Arduous",
+          "meaning": "Very difficult",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Zenith",
+          "meaning": "Highest point",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Plausible",
+          "meaning": "Seemingly reasonable",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Sporadic",
+          "meaning": "Occurring irregularly",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Melancholy",
+          "meaning": "Sad, gloomy",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Simple",
+          "meaning": "Easily understood",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Basic",
+          "meaning": "Fundamental",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Clear",
+          "meaning": "Easy to understand",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Brief",
+          "meaning": "Short in duration",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Young",
+          "meaning": "Early in life",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Old",
+          "meaning": "Advanced in years",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "New",
+          "meaning": "Recently created",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Cold",
+          "meaning": "Low temperature",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Warm",
+          "meaning": "Moderately hot",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Poor",
+          "meaning": "Lacking wealth",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Fast",
+          "meaning": "Quick",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Slow",
+          "meaning": "Not fast",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Easy",
+          "meaning": "Not difficult",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Hard",
+          "meaning": "Difficult",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Rich",
+          "meaning": "Wealthy",
+          "level": 0,
+          "proficiency": 0
+        }
+      ]
+    },
+    "level": "easy",
+    "username": "maddy",
+    "password": "maddy",
+    "firstname": "madhav",
+    "lastname": "nainala"
+  },
+  {
+    "words": {
+      "medium": [
+        {
+          "value": "Dwell",
+          "meaning": "Live in a place",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Temper",
+          "meaning": "Mood or disposition",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Intimate",
+          "meaning": "Closely acquainted",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Tide",
+          "meaning": "Sea level change",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Adverse",
+          "meaning": "Unfavorable, harmful",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Mitigate",
+          "meaning": "Make less severe",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Dubious",
+          "meaning": "Doubtful",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Pedantic",
+          "meaning": "Overly detailed",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Transitory",
+          "meaning": "Not permanent",
+          "level": 1,
+          "proficiency": 1
+        },
+        {
+          "value": "Vindicate",
+          "meaning": "Clear of blame",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Debauch",
+          "meaning": "Indulge in excess",
+          "level": 1,
+          "proficiency": 1
+        },
+        {
+          "value": "Circumvent",
+          "meaning": "Find a way around",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Exhort",
+          "meaning": "Strongly encourage",
+          "level": 1,
+          "proficiency": 2
+        },
+        {
+          "value": "Comply",
+          "meaning": "Follow rules",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Persist",
+          "meaning": "Continue despite difficulty",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Confer",
+          "meaning": "Consult together",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Evaluate",
+          "meaning": "Assess",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Estimate",
+          "meaning": "Approximate calculation",
+          "level": 1,
+          "proficiency": 1
+        },
+        {
+          "value": "Influence",
+          "meaning": "Impact or effect",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Modify",
+          "meaning": "Make changes to",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Enhance",
+          "meaning": "Improve",
+          "level": 1,
+          "proficiency": 1
+        },
+        {
+          "value": "Deter",
+          "meaning": "Discourage",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Promote",
+          "meaning": "Support or actively encourage",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Resolve",
+          "meaning": "Settle or find a solution",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Analyze",
+          "meaning": "Examine in detail",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Derive",
+          "meaning": "Obtain something from",
+          "level": 1,
+          "proficiency": 1
+        },
+        {
+          "value": "Conclude",
+          "meaning": "Bring to an end",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Adjust",
+          "meaning": "Alter or move slightly",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Compel",
+          "meaning": "Force to do something",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Consult",
+          "meaning": "Seek information from",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Negotiate",
+          "meaning": "Bargain",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Predict",
+          "meaning": "Foretell",
+          "level": 1,
+          "proficiency": 1
+        },
+        {
+          "value": "Recommend",
+          "meaning": "Advocate",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Reform",
+          "meaning": "Make changes to improve",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Scrutinize",
+          "meaning": "Examine carefully",
+          "level": 1,
+          "proficiency": 0
+        }
+      ],
+      "hard": [
+        {
+          "value": "Obnoxious",
+          "meaning": "Extremely unpleasant",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Obscure",
+          "meaning": "Not clear",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Render",
+          "meaning": "Provide or give",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Harry",
+          "meaning": "Persistently harass",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Aggrandize",
+          "meaning": "Increase power, status",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Cognizant",
+          "meaning": "Having knowledge",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Alacrity",
+          "meaning": "Brisk readiness",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Skill",
+          "meaning": "Learned ability",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Construe",
+          "meaning": "Interpret a way",
+          "level": 2,
+          "proficiency": 1
+        },
+        {
+          "value": "Denigrate",
+          "meaning": "Criticize unfairly",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Callous",
+          "meaning": "Emotionally hardened",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Accede",
+          "meaning": "Agree to a demand",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Bashful",
+          "meaning": "Shy, easily embarrassed",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Classic",
+          "meaning": "High quality",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Espouse",
+          "meaning": "Adopt or support",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Expiate",
+          "meaning": "Atone for guilt",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Obfuscate",
+          "meaning": "Deliberately confuse",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Equivocate",
+          "meaning": "Speak ambiguously",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Infallible",
+          "meaning": "Never failing",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Ubiquitous",
+          "meaning": "Found everywhere",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Quintessential",
+          "meaning": "Perfect example",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Perfunctory",
+          "meaning": "Done without care",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Propensity",
+          "meaning": "Natural tendency",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Sporadic",
+          "meaning": "Occurring at irregular intervals",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Volatility",
+          "meaning": "Liability to change rapidly",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Idiosyncratic",
+          "meaning": "Peculiar to the individual",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Ubiquitous",
+          "meaning": "Present everywhere",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Vicarious",
+          "meaning": "Experienced in the imagination",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Intransigent",
+          "meaning": "Unwilling to change",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Unctuous",
+          "meaning": "Excessively flattering",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Winsome",
+          "meaning": "Attractive or appealing",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Inexorable",
+          "meaning": "Impossible to stop",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Insidious",
+          "meaning": "Proceeding in a gradual way",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Intangible",
+          "meaning": "Unable to be touched",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Ineffable",
+          "meaning": "Too great to be expressed",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Pernicious",
+          "meaning": "Extremely harmful",
+          "level": 2,
+          "proficiency": 0
+        }
+      ],
+      "easy": [
+        {
+          "value": "Evident",
+          "meaning": "Clearly apparent",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Grant",
+          "meaning": "Allow to have",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Scale",
+          "meaning": "Relative magnitude ",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Style",
+          "meaning": "A manner of doing",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Hello",
+          "meaning": "A greeting",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Lucid",
+          "meaning": "Clearly expressed",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Catalyst",
+          "meaning": "Agent of change",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Innovate",
+          "meaning": "Introduce something new",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Financial",
+          "meaning": "Related to money",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Generate",
+          "meaning": "Produce, create",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Concept",
+          "meaning": "An abstract idea",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Condition",
+          "meaning": "State of health",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Undertake",
+          "meaning": "Commit to do",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Reflect",
+          "meaning": "Show an image",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Chamber",
+          "meaning": "Enclosed space",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Arduous",
+          "meaning": "Very difficult",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Zenith",
+          "meaning": "Highest point",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Plausible",
+          "meaning": "Seemingly reasonable",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Sporadic",
+          "meaning": "Occurring irregularly",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Melancholy",
+          "meaning": "Sad, gloomy",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Simple",
+          "meaning": "Easily understood",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Basic",
+          "meaning": "Fundamental",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Clear",
+          "meaning": "Easy to understand",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Brief",
+          "meaning": "Short in duration",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Young",
+          "meaning": "Early in life",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Old",
+          "meaning": "Advanced in years",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "New",
+          "meaning": "Recently created",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Cold",
+          "meaning": "Low temperature",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Warm",
+          "meaning": "Moderately hot",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Poor",
+          "meaning": "Lacking wealth",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Fast",
+          "meaning": "Quick",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Slow",
+          "meaning": "Not fast",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Easy",
+          "meaning": "Not difficult",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Hard",
+          "meaning": "Difficult",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Rich",
+          "meaning": "Wealthy",
+          "level": 0,
+          "proficiency": 0
+        }
+      ]
+    },
+    "level": "hard",
+    "username": "varini",
+    "password": "sri",
+    "firstname": "varini",
+    "lastname": "Mandali"
+  },
+  {
+    "words": {
+      "medium": [
+        {
+          "value": "Dwell",
+          "meaning": "Live in a place",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Temper",
+          "meaning": "Mood or disposition",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Intimate",
+          "meaning": "Closely acquainted",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Tide",
+          "meaning": "Sea level change",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Adverse",
+          "meaning": "Unfavorable, harmful",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Mitigate",
+          "meaning": "Make less severe",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Dubious",
+          "meaning": "Doubtful",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Pedantic",
+          "meaning": "Overly detailed",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Transitory",
+          "meaning": "Not permanent",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Vindicate",
+          "meaning": "Clear of blame",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Debauch",
+          "meaning": "Indulge in excess",
+          "level": 1,
+          "proficiency": 1
+        },
+        {
+          "value": "Circumvent",
+          "meaning": "Find a way around",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Exhort",
+          "meaning": "Strongly encourage",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Comply",
+          "meaning": "Follow rules",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Persist",
+          "meaning": "Continue despite difficulty",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Confer",
+          "meaning": "Consult together",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Evaluate",
+          "meaning": "Assess",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Estimate",
+          "meaning": "Approximate calculation",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Influence",
+          "meaning": "Impact or effect",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Modify",
+          "meaning": "Make changes to",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Enhance",
+          "meaning": "Improve",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Deter",
+          "meaning": "Discourage",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Promote",
+          "meaning": "Support",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Resolve",
+          "meaning": "Settle or find a solution",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Analyze",
+          "meaning": "Examine in detail",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Derive",
+          "meaning": "Obtain something from",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Conclude",
+          "meaning": "Bring to an end",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Adjust",
+          "meaning": "Alter or move slightly",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Compel",
+          "meaning": "Force to do something",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Consult",
+          "meaning": "Seek information from",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Negotiate",
+          "meaning": "Bargain",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Predict",
+          "meaning": "Foretell",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Recommend",
+          "meaning": "Advocate",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Reform",
+          "meaning": "Make changes to improve",
+          "level": 1,
+          "proficiency": 1
+        },
+        {
+          "value": "Scrutinize",
+          "meaning": "Examine carefully",
+          "level": 1,
+          "proficiency": 1
+        }
+      ],
+      "hard": [
+        {
+          "value": "Obnoxious",
+          "meaning": "Extremely unpleasant",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Obscure",
+          "meaning": "Not clear",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Render",
+          "meaning": "Provide or give",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Harry",
+          "meaning": "Persistently harass",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Aggrandize",
+          "meaning": "Increase power, status",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Cognizant",
+          "meaning": "Having knowledge",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Alacrity",
+          "meaning": "Brisk readiness",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Skill",
+          "meaning": "Learned ability",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Construe",
+          "meaning": "Interpret a way",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Denigrate",
+          "meaning": "Criticize unfairly",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Callous",
+          "meaning": "Emotionally hardened",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Accede",
+          "meaning": "Agree to a demand",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Bashful",
+          "meaning": "Shy, easily embarrassed",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Classic",
+          "meaning": "High quality",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Espouse",
+          "meaning": "Adopt or support",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Expiate",
+          "meaning": "Atone for guilt",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Obfuscate",
+          "meaning": "Deliberately confuse",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Equivocate",
+          "meaning": "Speak ambiguously",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Infallible",
+          "meaning": "Never failing",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Ubiquitous",
+          "meaning": "Found everywhere",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Quintessential",
+          "meaning": "Perfect example",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Perfunctory",
+          "meaning": "Done without care",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Propensity",
+          "meaning": "Natural tendency",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Sporadic",
+          "meaning": "Occurring at irregular intervals",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Volatility",
+          "meaning": "Liability to change rapidly",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Idiosyncratic",
+          "meaning": "Peculiar to the individual",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Ubiquitous",
+          "meaning": "Present everywhere",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Vicarious",
+          "meaning": "Experienced in the imagination",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Intransigent",
+          "meaning": "Unwilling to change",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Unctuous",
+          "meaning": "Excessively flattering",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Winsome",
+          "meaning": "Attractive or appealing",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Inexorable",
+          "meaning": "Impossible to stop",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Insidious",
+          "meaning": "Proceeding in a gradual way",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Intangible",
+          "meaning": "Unable to be touched",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Ineffable",
+          "meaning": "Too great to be expressed",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Pernicious",
+          "meaning": "Extremely harmful",
+          "level": 2,
+          "proficiency": 0
+        }
+      ],
+      "easy": [
+        {
+          "value": "Evident",
+          "meaning": "Clearly apparent",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Grant",
+          "meaning": "Allow to have",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Scale",
+          "meaning": "Relative magnitude ",
+          "level": 0,
+          "proficiency": 1
+        },
+        {
+          "value": "Style",
+          "meaning": "A manner of doing",
+          "level": 0,
+          "proficiency": 2
+        },
+        {
+          "value": "Hello",
+          "meaning": "A greeting",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Lucid",
+          "meaning": "Clearly expressed",
+          "level": 0,
+          "proficiency": 1
+        },
+        {
+          "value": "Catalyst",
+          "meaning": "Agent of change",
+          "level": 0,
+          "proficiency": 1
+        },
+        {
+          "value": "Innovate",
+          "meaning": "Introduce something new",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Financial",
+          "meaning": "Related to money",
+          "level": 0,
+          "proficiency": 1
+        },
+        {
+          "value": "Generate",
+          "meaning": "Produce, create",
+          "level": 0,
+          "proficiency": 1
+        },
+        {
+          "value": "Concept",
+          "meaning": "An abstract idea",
+          "level": 0,
+          "proficiency": 1
+        },
+        {
+          "value": "Condition",
+          "meaning": "State of health",
+          "level": 0,
+          "proficiency": 2
+        },
+        {
+          "value": "Undertake",
+          "meaning": "Commit to do",
+          "level": 0,
+          "proficiency": 1
+        },
+        {
+          "value": "Reflect",
+          "meaning": "Show an image",
+          "level": 0,
+          "proficiency": 2
+        },
+        {
+          "value": "Chamber",
+          "meaning": "Enclosed space",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Arduous",
+          "meaning": "Very difficult",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Zenith",
+          "meaning": "Highest point",
+          "level": 0,
+          "proficiency": 1
+        },
+        {
+          "value": "Plausible",
+          "meaning": "Seemingly reasonable",
+          "level": 0,
+          "proficiency": 2
+        },
+        {
+          "value": "Sporadic",
+          "meaning": "Occurring irregularly",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Melancholy",
+          "meaning": "Sad, gloomy",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Simple",
+          "meaning": "Easily understood",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Basic",
+          "meaning": "Fundamental",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Clear",
+          "meaning": "Easy to understand",
+          "level": 0,
+          "proficiency": 1
+        },
+        {
+          "value": "Brief",
+          "meaning": "Short in duration",
+          "level": 0,
+          "proficiency": 1
+        },
+        {
+          "value": "Young",
+          "meaning": "Early in life",
+          "level": 0,
+          "proficiency": 1
+        },
+        {
+          "value": "Old",
+          "meaning": "Advanced in years",
+          "level": 0,
+          "proficiency": 2
+        },
+        {
+          "value": "New",
+          "meaning": "Recently created",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Cold",
+          "meaning": "Low temperature",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Warm",
+          "meaning": "Moderately hot",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Poor",
+          "meaning": "Lacking wealth",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Fast",
+          "meaning": "Quick",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Slow",
+          "meaning": "Not fast",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Easy",
+          "meaning": "Not difficult",
+          "level": 0,
+          "proficiency": 2
+        },
+        {
+          "value": "Hard",
+          "meaning": "Difficult",
+          "level": 0,
+          "proficiency": 1
+        },
+        {
+          "value": "Rich",
+          "meaning": "Wealthy",
+          "level": 0,
+          "proficiency": 1
+        }
+      ]
+    },
+    "level": "hard",
+    "username": "demo",
+    "password": "demo",
+    "firstname": "demo",
+    "lastname": "demo"
+  },
+  {
+    "words": {
+      "medium": [
+        {
+          "value": "Dwell",
+          "meaning": "Live in a place",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Temper",
+          "meaning": "Mood or disposition",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Intimate",
+          "meaning": "Closely acquainted",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Tide",
+          "meaning": "Sea level change",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Adverse",
+          "meaning": "Unfavorable, harmful",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Mitigate",
+          "meaning": "Make less severe",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Dubious",
+          "meaning": "Doubtful",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Pedantic",
+          "meaning": "Overly detailed",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Transitory",
+          "meaning": "Not permanent",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Vindicate",
+          "meaning": "Clear of blame",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Debauch",
+          "meaning": "Indulge in excess",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Circumvent",
+          "meaning": "Find a way around",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Exhort",
+          "meaning": "Strongly encourage",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Comply",
+          "meaning": "Follow rules",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Persist",
+          "meaning": "Continue despite difficulty",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Confer",
+          "meaning": "Consult together",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Evaluate",
+          "meaning": "Assess",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Estimate",
+          "meaning": "Approximate calculation",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Influence",
+          "meaning": "Impact or effect",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Modify",
+          "meaning": "Make changes to",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Enhance",
+          "meaning": "Improve",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Deter",
+          "meaning": "Discourage",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Promote",
+          "meaning": "Support",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Resolve",
+          "meaning": "Settle or find a solution",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Analyze",
+          "meaning": "Examine in detail",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Derive",
+          "meaning": "Obtain something from",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Conclude",
+          "meaning": "Bring to an end",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Adjust",
+          "meaning": "Alter or move slightly",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Compel",
+          "meaning": "Force to do something",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Consult",
+          "meaning": "Seek information from",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Negotiate",
+          "meaning": "Bargain",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Predict",
+          "meaning": "Foretell",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Recommend",
+          "meaning": "Advocate",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Reform",
+          "meaning": "Make changes to improve",
+          "level": 1,
+          "proficiency": 0
+        },
+        {
+          "value": "Scrutinize",
+          "meaning": "Examine carefully",
+          "level": 1,
+          "proficiency": 0
+        }
+      ],
+      "hard": [
+        {
+          "value": "Obnoxious",
+          "meaning": "Extremely unpleasant",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Obscure",
+          "meaning": "Not clear",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Render",
+          "meaning": "Provide or give",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Harry",
+          "meaning": "Persistently harass",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Aggrandize",
+          "meaning": "Increase power, status",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Cognizant",
+          "meaning": "Having knowledge",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Alacrity",
+          "meaning": "Brisk readiness",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Skill",
+          "meaning": "Learned ability",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Construe",
+          "meaning": "Interpret a way",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Denigrate",
+          "meaning": "Criticize unfairly",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Callous",
+          "meaning": "Emotionally hardened",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Accede",
+          "meaning": "Agree to a demand",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Bashful",
+          "meaning": "Shy, easily embarrassed",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Classic",
+          "meaning": "High quality",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Espouse",
+          "meaning": "Adopt or support",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Expiate",
+          "meaning": "Atone for guilt",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Obfuscate",
+          "meaning": "Deliberately confuse",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Equivocate",
+          "meaning": "Speak ambiguously",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Infallible",
+          "meaning": "Never failing",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Ubiquitous",
+          "meaning": "Found everywhere",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Quintessential",
+          "meaning": "Perfect example",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Perfunctory",
+          "meaning": "Done without care",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Propensity",
+          "meaning": "Natural tendency",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Sporadic",
+          "meaning": "Occurring at irregular intervals",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Volatility",
+          "meaning": "Liability to change rapidly",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Idiosyncratic",
+          "meaning": "Peculiar to the individual",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Ubiquitous",
+          "meaning": "Present everywhere",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Vicarious",
+          "meaning": "Experienced in the imagination",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Intransigent",
+          "meaning": "Unwilling to change",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Unctuous",
+          "meaning": "Excessively flattering",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Winsome",
+          "meaning": "Attractive or appealing",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Inexorable",
+          "meaning": "Impossible to stop",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Insidious",
+          "meaning": "Proceeding in a gradual way",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Intangible",
+          "meaning": "Unable to be touched",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Ineffable",
+          "meaning": "Too great to be expressed",
+          "level": 2,
+          "proficiency": 0
+        },
+        {
+          "value": "Pernicious",
+          "meaning": "Extremely harmful",
+          "level": 2,
+          "proficiency": 0
+        }
+      ],
+      "easy": [
+        {
+          "value": "Evident",
+          "meaning": "Clearly apparent",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Grant",
+          "meaning": "Allow to have",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Scale",
+          "meaning": "Relative magnitude ",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Style",
+          "meaning": "A manner of doing",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Hello",
+          "meaning": "A greeting",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Lucid",
+          "meaning": "Clearly expressed",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Catalyst",
+          "meaning": "Agent of change",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Innovate",
+          "meaning": "Introduce something new",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Financial",
+          "meaning": "Related to money",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Generate",
+          "meaning": "Produce, create",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Concept",
+          "meaning": "An abstract idea",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Condition",
+          "meaning": "State of health",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Undertake",
+          "meaning": "Commit to do",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Reflect",
+          "meaning": "Show an image",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Chamber",
+          "meaning": "Enclosed space",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Arduous",
+          "meaning": "Very difficult",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Zenith",
+          "meaning": "Highest point",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Plausible",
+          "meaning": "Seemingly reasonable",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Sporadic",
+          "meaning": "Occurring irregularly",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Melancholy",
+          "meaning": "Sad, gloomy",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Simple",
+          "meaning": "Easily understood",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Basic",
+          "meaning": "Fundamental",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Clear",
+          "meaning": "Easy to understand",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Brief",
+          "meaning": "Short in duration",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Young",
+          "meaning": "Early in life",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Old",
+          "meaning": "Advanced in years",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "New",
+          "meaning": "Recently created",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Cold",
+          "meaning": "Low temperature",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Warm",
+          "meaning": "Moderately hot",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Poor",
+          "meaning": "Lacking wealth",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Fast",
+          "meaning": "Quick",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Slow",
+          "meaning": "Not fast",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Easy",
+          "meaning": "Not difficult",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Hard",
+          "meaning": "Difficult",
+          "level": 0,
+          "proficiency": 0
+        },
+        {
+          "value": "Rich",
+          "meaning": "Wealthy",
+          "level": 0,
+          "proficiency": 0
+        }
+      ]
+    },
+    "level": "easy",
+    "username": "test",
+    "password": "test",
+    "firstname": "test123",
+    "lastname": "test"
+  }
+]

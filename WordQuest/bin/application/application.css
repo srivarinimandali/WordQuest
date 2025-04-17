@@ -1,0 +1,14 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.chart-pie-label {
+	-fx-fill: #fccfde;
+	-fx-font-weight: bold; 
+	
+}
+
+
+.chart-title {
+    -fx-text-fill: #fccfde; /* Sets the title color to a pink shade */
+    -fx-font-weight: bold; 
+}
+

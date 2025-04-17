@@ -1,0 +1,70 @@
+INSTRUCTIONS
+
+Here's a detailed guide on how to set up and run our JavaFX project "WordQuest" in Eclipse. This will help you configure the environment and execute the project successfully.
+
+Prerequisites
+
+Eclipse IDE for Java Developers : Make sure you have Eclipse installed. If not, download it from [Eclipse Downloads](https://www.eclipse.org/downloads/packages/).
+
+Java Development Kit (JDK) : Download and install the JDK (version 21 or later) from [Oracle's JDK Downloads]( https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html).
+
+JavaFX SDK : Download the JavaFX SDK for your platform from [Gluon's JavaFX downloads page](https://gluonhq.com/products/javafx/).
+
+Step-by-Step Setup
+
+1. Install JDK : Install the JDK and set the JAVA_HOME environment variable to the JDK installation path.
+
+2. Download and Configure JavaFX SDK : Download and unzip the JavaFX SDK to a known location on your system.
+
+ 3. Setup Eclipse : 
+- Open Eclipse and choose a workspace.
+- Install the e(fx)clipse plugin by going to Help -> Eclipse Marketplace, search for "e(fx)clipse" and install it. Restart Eclipse after the installation.
+
+4. Import the Project
+- Go to File -> Open Projects from File System .
+- Click on Directory and find the location where you extracted the JavaFX project, select the root folder of the project, and click Finish.
+
+ 5. Configure JavaFX Library
+- Right-click on your project in the Project Explorer.
+- Select Build Path -> Configure Build Path.
+- Go to the Libraries tab, click Classpath , and then Add Library.. .
+- Choose User Library, click Next, then User Libraries... .
+- Click New, name your library (e.g., "JavaFX"), and click OK.
+- Select the newly created library, click Add External JARs... , and navigate to the `lib`    folder inside your JavaFX SDK directory.
+- Select all JAR files in the folder and click *Open*, then Apply and Close.
+6. Set Run Configuration
+- Right-click the project in the Project Explorer and select Run As -> Run Configurations... .
+- Under Java Application, select your main class.
+- On the Arguments tab, in the VM arguments field, enter the following (modify the path to match where your JavaFX SDK `lib` folder is located):
+
+                                     --add-modules javafx.controls,javafx.fxml
+ 
+- Click Apply and then Run to start your application.
+
+Running the Project
+
+With all configurations set, you can now run your JavaFX application directly from Eclipse:
+- Ensure your main class is correctly set with a main method.
+- Right-click the project, select Run As , then Java Application.
+
+Create Users:
+After running the application, navigate to the signup page from the initial application screen.
+Enter the details for a new user and submit them to create a new user account.
+
+Using Admin Credentials:
+To log in as an administrator, use the following credentials:
+Username: admin
+Password: admin
+This will allow you to access admin functionalities such as managing user accounts or words.
+
+Assets:  The project uses images and gson jar which are stored in the assets folder within the project directory.
+
+Interacting with the Application : Explore the features provided by the application, such as adding new vocabulary, testing your knowledge, and reviewing word lists, based on the user or admin role.
+
+Troubleshooting Common Issues
+
+- If you encounter `ClassNotFoundException` or `ModuleNotFoundException`, double-check your VM arguments and ensure that the JavaFX SDK path is correctly specified.
+
+- Ensure that e(fx)clipse is installed correctly to manage JavaFX features within Eclipse.
+
+This guide will help you through setting up your JavaFX project in Eclipse, allowing you to build and run the application smoothly.
